@@ -1,0 +1,33 @@
+.tabs{
+    width: 100%;
+    height: 49px;
+    margin: 0 auto;
+    border-top: 1px solid #c1c4cd;
+    position: fixed;
+    bottom: 0;
+    background: white;
+}
+.bottomnav{
+    display: flex;
+}
+.bottomnav li{
+    width: 20%;
+    height: 43px;
+    padding-top: 3.5px;
+    display: block;
+    text-align: center;
+    vertical-align: middle;
+    color: #444;
+    border-bottom: none;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 13px;
+}
+@font-face {
+    font-family: 'iconfont';  /* project id 614168 */
+    src: url('//at.alicdn.com/t/font_614168_709944cqybny7gb9.eot');
+    src: url('//at.alicdn.com/t/font_614168_709944cqybny7gb9.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_614168_709944cqybny7gb9.woff') format('woff'),
+    url('//at.alicdn.com/t/font_614168_709944cqybny7gb9.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_614168_709944cqybny7gb9.svg#iconfont') format('svg');
+  }

@@ -1,0 +1,22 @@
+.box{
+    padding-bottom:50px;
+}
+.headerPic{
+    width: 100%;
+    height: 205.5px;
+    background: pink;
+}
+.listPic{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.listPic li{
+    width: 100%;
+    height: 100%;
+}
+.listPic li img{
+    width: 100%;
+    height: 100%;
+}
